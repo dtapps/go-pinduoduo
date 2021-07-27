@@ -1,6 +1,6 @@
-<h1><a href="https://www.dtapp.net/">Golang Library</a></h1>
+<h1><a href="https://www.dtapp.net/">Golang</a></h1>
 
-📦 Golang 扩展包
+📦 Golang 拼多多 进宝 SDK
 
 [comment]: <> (go)
 [![godoc](https://pkg.go.dev/badge/github.com/dtapps/go-pinduoduo?status.svg)](https://pkg.go.dev/github.com/dtapps/go-pinduoduo)
